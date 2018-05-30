@@ -1,0 +1,721 @@
+.topbarbg{
+    background: #558b2f;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.txtdeal{
+    text-align: center;
+    padding-top: 40px;
+    font-size: x-large;
+}
+.topimgcss{
+    width: 100%;
+    height: 390px;
+    /* height: auto; */
+    /* height: 346px; */
+    margin-top: 74px;
+}
+.hrcss{
+    margin-top: 5px;
+    width: 200px;
+    border: 1px solid grey;
+}
+.popularhrcss{
+    margin-top: 5px;
+    width: 200px;
+    border: 1px solid gray;
+}
+.populardesthrcss{
+    margin-top: 5px;
+    width: 270px;
+    border: 1px solid grey;
+}
+.populardeststar{
+    text-align: left;
+    font-size: 19px;
+    color: grey;
+}
+.updatehrcss{
+    width: 70px;
+    border: 3px solid #558b2f;
+    margin-bottom: -5px;
+    margin-top: 0px;
+}
+.imgcss{
+    height: 210px;
+    width: 100%;
+    cursor: pointer;
+}
+.menuitemcolor{
+    color: #FFF;
+}
+.hotelcolcss{
+    margin-bottom: 10px;
+}
+.pricecss{
+    width: 100px;
+    background: white;
+    position: absolute;
+    top: 18rem;
+    right: 1.5rem;
+    text-align: center;
+    line-height: 30px;
+    font-size: 1.5rem;
+    color: #558b2f;
+    visibility: visible;
+    float: right;
+    vertical-align: bottom;
+}
+.hotelrowcss{
+    padding-top: 30px;
+    background: #e5eefc;
+    text-align: center;
+}
+.hotdealrowcss{
+    padding-top: 30px;
+    background: #e5eefc;
+}
+.readmore{
+    color: #FFF;
+    float: right;
+    height: 30px;
+    width: 100px;
+    background: #558b2f;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.starcss{
+    font-size: x-large;
+    color: orange;
+    text-align: left;
+}
+div.hoteltxtcss{
+    text-align: left;
+    font-size: x-large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div.hotelduring{
+    text-align: left;
+    font-size: 19px;
+    color: grey;
+}
+.viewmorecss{
+    float: right;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.hotviewmore{
+    float: right;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.popviewmore{
+    float: right;
+    margin-top: -13px;
+    padding-right: 30px;
+    cursor: pointer;
+}
+.viewmoreimg{
+    height: 23px;
+}
+.hotrowcss{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 30px;
+}
+.imgcssreplace{
+    width: 100%;
+    height: 450px;
+    cursor: pointer;
+}
+.hotpricecss{
+    width: 100px;
+    font-size: 1.5rem;
+    color:#FFFFFF;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.locationimgcss{
+    height: 23px;
+}
+.locationcss{
+    color: #FFF;
+    margin-top: -50px;
+}
+.hoteldeal{
+    margin-top: -6px;
+    text-align: center;
+    font-size: x-large;
+}
+.navbarcss .navheadercss {
+    color: #FFF;
+    padding-top: 7px;
+}
+.navbarcss .navulcss>li>a {
+    color: #FFF;
+    padding-top: 7px;
+}
+.navbarcss .navulcss>.active>a, .navbarcss .navbarulcss>.active>a:focus, .navbarcss .navulcss>.active>a:hover, .navbarcss .navulcss>li>a:hover {
+    color: #FFF;
+    background-color:#276dbe;
+    height: 40px;
+    margin-top: -1px;
+}
+.navbarcss .navulcss>li>a:focus{
+    color: #FFF;
+    background-color:#276dbe;
+    height: 40px;
+    margin-top: -1px;
+}
+.navbarnavcss{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.iconbarcss{
+    margin-top: 2px;
+}
+.carouseldotcss{
+    bottom: 0px;
+}
+.navbarcss {
+    background-color:#1976D2;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border-color: #1976D2;
+    min-height: 40px;
+    height: 40px;
+}
+.navtopcss{
+    height: 3px;
+    background: orangered;
+}
+.topleftcss{
+    text-align: right;
+    vertical-align: middle;
+    line-height: 35px;  /* the same as my div height */
+    color: #FFF;/**/
+}
+.avonlogocss{
+    width: 100px;
+    height: 35px;
+}
+.rowbottom{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.searchbtncss{
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.searchbtn{
+    background: #1976D2;
+    color: #FFF;
+    width: 100px;
+    border-radius: 0px;
+}
+.text-block {
+    position: absolute;
+    margin-top: -302px;
+    margin-top: -315px;
+    right: 20px;
+    background-color: white;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.9;
+    left: 10px;
+}
+.text-block1 {
+    position: absolute;
+    margin-top: -357px;
+    right: 20px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.9;
+    left: 10px;
+}
+.carousel-inner > .item > img{
+    /* position: absolute;
+    top: 0; */
+    left: 0;
+    height: 350px;
+    height: 450px;
+}
+.topimg{
+    width: 15px;
+}
+li.formimg {
+    background: dimgrey;
+    margin-left: 5px;
+}
+li.active.formimg {
+    background: #1976D2;
+    margin-left: 5px;
+}
+.rowformcss{
+    margin-left: -40px;
+    margin-right: 5px;
+    border-bottom: 0px solid #ddd;
+}
+.nav-tabs>li.active>a{
+    color: #FFF;
+    cursor: default;
+    background-color: #1976D2;
+    border: 1px solid #1976D2;
+    border-bottom-color: transparent;
+}
+.nav-tabs>li.active>a:hover, .nav-tabs>li>a:hover, .nav-tabs>li.active>a:focus, .nav-tabs>li>a:focus{
+    color: #FFF;
+    cursor: default;
+    background: #276dbe;
+    border: 1px solid #1976D2;
+    border-bottom-color: transparent;
+    cursor: pointer;
+    /* height: 52px;
+    margin-top: -7px; */
+}
+.nav-tabs>li.active, .nav-tabs>li:hover{
+    height: 52px;
+    margin-top: -7px;
+    background: #276dbe;
+}
+.signupcss{
+    border-radius: 0px;
+    margin-bottom: 20px;
+}
+.signupcss1{
+    border-radius: 0px;
+    margin-bottom: 20px;
+    margin-top: 28px;
+}
+.signupbtn{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-radius: 0px;
+    width: 100%;
+    background-color: #558b2f;
+    color: #FFF;
+}
+.loginbtn{
+    color: #FFF;
+    background: #558b2f;
+    border-color: #558b2f;
+    float: right;
+}
+.logincss{
+    background: blue;
+    height: 313px;
+}
+.signupcss{
+    background: #FFF;
+}
+.logintitle{
+    margin-top: 50px;
+    text-align: center;
+    color: #FFF;
+}
+.loginemailcss{
+    border-radius: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.loginpwdcss{
+    border-radius: 0px;
+    margin-bottom: 20px;
+}
+.loginforgotcss{
+    color: #FFF;
+    font-size: 9px;
+    padding-left: 17px;
+}
+.beautylogo{
+    margin-top: -150px;
+    height: 67px;
+    width: 88px;
+}
+.beautylogotxt{
+    margin-top: -150px;
+    margin-left: 100px;
+}
+.beautytreasure{
+    color: #FFF;
+    font-size: 20px;
+}
+.beautylike{
+    color: #FFF;
+}
+.modalcontent{
+    border-radius: 0px;
+}
+.formtxtcss{
+    color: #FFF;
+}
+.formhead{
+    font-size: 10px;
+}
+.descriptiontxtcss{
+    display: inline-block;
+    /* vertical-align: middle; */
+    padding-top: 8px;
+    font-size: large;
+}
+.fromtxtcss{
+    float: right;
+}
+.populartxt{
+    padding-left: 27px;
+}
+.descriptionreadmore{
+    /* line-height: 45px; */
+    line-height: 29px;
+    vertical-align: middle;
+    background: #558b2f;
+    text-align: center;
+    color: #FFF;
+    margin-top: 7px;
+    cursor: pointer;
+    /* font-size: medium; */
+}
+.hotdealcolcss{
+    margin-bottom: 10px;
+}
+.desimgcss{
+    height: 250px;
+    width: 100%;
+    cursor: pointer;
+}
+.populartour{
+    padding-top: 40px;
+    text-align: center;
+    font-size: x-large;
+}
+.popularrowcss{
+    padding-bottom: 10px;
+}
+
+.footercss{
+    height: 354px;
+    background: #000000;
+}
+.footerimage{
+    width: 100%;
+    height: 55px;
+}
+.contactcss{
+    color: #FFF;
+    font-size: 20px;
+}
+.travelcss{
+    color: #FFF;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.contacthr{
+    width: 30%;
+    background: #FFF;
+    height: 1px;
+    margin-bottom: 30px;
+}
+.contacthrtouch{
+    width: 170px;
+    background: #FFF;
+    height: 1px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+.footptxt{
+    color: #FFF;
+}
+.contacthr1{
+    margin-top: 5px;
+    width: 200px;
+    border: 1px solid #FFF;
+    margin-left: 0px;
+    width: 170px;
+}
+.contactheader{
+    margin-left: 33px;
+    margin-top: -350px;
+}
+.contactheader1{
+    margin-top: -350px;
+}
+.contactheader2{
+    margin-top: -350px;
+    padding-top: 15px;
+}
+.getoucheader{
+    margin-top: -350px;
+}
+.emailfooter{
+    border-radius: 0px;
+}
+.getouchr{
+    width: 20%;
+    background: #FFF;
+    height: 1px;
+    margin-bottom: 10px;
+}
+.updategetouchr{
+    width: 20%;
+    background: #FFF;
+    height: 1px;
+    margin-bottom: 10px;
+}
+.footerphcss{
+    width: 17px;
+    padding-top: 10px;
+}
+.footermailcss{
+    width: 17px;
+    padding-top: 10px;
+}
+.footerlocationcss{
+    width: 25px;
+    padding-top: 10px;
+}
+.phnocss{
+    color: #FFF;
+    float: left;
+}
+.fontsizecss{
+    font-size: 18px;
+}
+.phdatecss{
+    color: darkgray;
+}
+.replymailcss{
+    color: darkgray;
+}
+.footerli{
+    margin-left: -30px;
+}
+.textareacss{
+    border-radius: 0px;
+}
+textarea.textareacss {
+    height: 150px;
+}
+.footerlicss{
+    padding-bottom: 35px;
+}
+.inputcss{
+    border-radius: 0px;
+}
+.sendbtncss{
+    float: right;
+    width: 98px;
+    background: #558b2f;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 18px;
+    vertical-align: middle;
+    line-height: 17px;
+    margin-top: -34px;
+}
+.visaimgcss{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.paypalimg{
+    /* height: 78px;
+    width: 100%; */
+    height: 67px;
+    width: 97%;
+}
+.datecss{
+    width:  100%;
+}
+.nopaxcss{
+    width: 50%;
+}
+.topimgen{
+    width: 15px;
+}
+.topimgaccount{
+    width: 15px;
+    margin-top: -3px;
+}
+.footerimg{
+    /* width: 100%; */
+    height: 350px;
+}
+.footerimgright{
+    float: right;
+}
+.footerleft{
+    float: left;
+}
+.contacthrcss{
+    width: 50px;
+    background: #1976D2;
+    height: 3px;
+}
+.contacthrcss1{
+    width: 50px;
+    border: 3px solid #558b2f;
+    margin-bottom: 28px;
+    margin-top: -26px;
+    margin-left: 0px;
+}
+.contacthrcsstouch{
+    width: 50px;
+    border: 3px solid #558b2f;
+    margin-bottom: 27px;
+    margin-top: -36px;
+    margin-left: 0px;
+}
+
+
+
+.updatelogocss{
+    width: 200px;
+    background: #FFF;
+    height: 76px;
+    height: 82px;
+    margin-top: -37px;
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    
+    .topimgcss{
+        width: 100%;
+        height: 515px;
+        margin-top: 74px;
+    }
+    .carousel-inner > .item > img{
+        left: 0;
+        height: 350px;
+    }
+    /* .text-block {
+        position: absolute;
+        margin-top: -326px;
+        right: 20px;
+        background-color: white;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        opacity: 0.9;
+        left: 10px;
+    } */
+    .text-block {
+        position: absolute;
+        margin-top: -264px;
+        right: 20px;
+        background-color: white;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        opacity: 0.9;
+        left: 10px;
+    }
+    .text-block1 {
+        position: absolute;
+        margin-top: -306px;
+        right: 20px;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        opacity: 0.9;
+        left: 10px;
+    }
+    
+    .footerimage{
+        width: 100%;
+        height: 50px;
+        padding-bottom: 10px;
+    }
+    .footercss{
+        height: 665px;
+        background: #000000;
+    }
+    .footerimg{
+        width: 100%;
+        height: 396px;
+    }
+    .contactheader1{
+        margin-top: -380px;
+    }
+    .contactheader2{
+        margin-top: -70px;
+        padding-top: 15px;
+    }
+    .getoucheader{
+        margin-top: -70px;
+    }
+    .navbarcss .navulcss>li>a {
+        color: #FFF;
+        padding-top: 7px;
+        background: #1976D2;
+    }
+    .navbarnavcss{
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .carouseldotcss{
+        bottom: -11px;
+    }
+    
+}
+@media (max-width:992px) and (min-width:768px) {
+    
+    .topimgcss{
+        width: 100%;
+        height: 385px;
+        margin-top: 74px;
+    }
+    .carousel-inner > .item > img{
+        left: 0;
+        height: 300px;
+        height: 395px;
+    }
+    .footercss {
+        height: 417px;
+        background: #000000;
+    }
+    .footerimg {
+        height: 350px;
+    }
+    .text-block {
+        position: absolute;
+        margin-top: -287px;
+        right: 20px;
+        background-color: white;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        opacity: 0.9;
+        left: 10px;
+    }
+    .text-block1 {
+        position: absolute;
+        margin-top: -329px;
+        right: 20px;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        opacity: 0.9;
+        left: 10px;
+    }
+    .carouseldotcss{
+        bottom: -11px;
+    }
+   
+}
+
+
